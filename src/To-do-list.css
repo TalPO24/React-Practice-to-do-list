@@ -1,0 +1,31 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+}
+.li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.to-Do-List {
+  margin-top: 1rem;
+}
+
+.removeBtn {
+  margin-left: 1rem;
+}
